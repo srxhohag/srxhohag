@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=SR%20Shohag&fontSize=56&fontColor=ffffff&desc=Google%20Ads%20%26%20Performance%20Marketing%20Specialist&descSize=18&descAlignY=72" width="100%"/>
+<h1>Hi, I'm SR Shohag 👋</h1>
+<h3>Google Ads & Performance Marketing Specialist · Founder of iSpyro</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=8%2B+Years+Running+Profitable+Google+Ads;Search+%7C+Performance+Max+%7C+Shopping;Conversion+Tracking+%7C+GA4+%7C+GTM;Turning+Ad+Spend+into+Real+Revenue" alt="Typing SVG" />
 
@@ -67,8 +68,3 @@ Need more leads, lower CPA or tracking you can actually trust? Let's talk.
 
 📍 Kushtia, Bangladesh · Working with clients worldwide 🌍
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
-
-</div>
